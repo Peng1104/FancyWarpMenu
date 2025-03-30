@@ -30,7 +30,7 @@
           "displayName": "Plaza",
           "slotIndex": 13,
           "gridX": 22,
-          "gridY": 19
+          "gridY": 16
         },
         {
           "displayName": "Colosseum",
@@ -43,6 +43,12 @@
           "slotIndex": 15,
           "gridX": 31,
           "gridY": 28
+        },
+        {
+          "displayName": "Mountain Top",
+          "slotIndex": 16,
+          "gridX": 23,
+          "gridY": 21
         }
       ]
     }
