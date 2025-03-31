@@ -49,6 +49,12 @@
           "commandName": "stonks",
           "gridX": 15,
           "gridY": 13
+        },
+        {
+          "displayName": "Bayou",
+          "commandName": "bayou",
+          "gridX": 35,
+          "gridY": 16
         }
       ]
     },
@@ -210,6 +216,12 @@
           "commandName": "nucleus",
           "gridX": 18,
           "gridY": 30
+        },
+        {
+          "displayName": "Camp",
+          "commandName": "camp",
+          "gridX": 31,
+          "gridY": 2
         }
       ]
     },
@@ -356,22 +368,6 @@
         {
           "displayName": "Spawn",
           "commandName": "rift",
-          "gridX": 6,
-          "gridY": 15
-        }
-      ]
-    },
-    {
-      "name": "Base Camp",
-      "texturePath": "textures/gui/islands/Base Camp.png",
-      "gridX": 51,
-      "gridY": 2,
-      "zLevel": 0,
-      "widthPercentage": 0.05,
-      "warpList": [
-        {
-          "displayName": "Base Camp",
-          "commandName": "camp",
           "gridX": 6,
           "gridY": 15
         }
