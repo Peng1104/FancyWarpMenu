@@ -510,7 +510,7 @@ public class GuiFancyWarp extends GuiChestMenu {
                 }
             } catch (RuntimeException e) {
                 ChatUtils.sendErrorMessageWithCopyableThrowable("fancywarpmenu.errors.fancyWarpGui.itemMatchFailed", e);
-                setCustomUIState(false, false);
+                setCustomUIState(true, true); // Set to false, false when fix is in place
             } finally {
                 chestInventory.removeInventoryChangeListener(inventoryListener);
             }
