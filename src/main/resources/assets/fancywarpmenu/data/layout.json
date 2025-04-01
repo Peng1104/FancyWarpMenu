@@ -43,6 +43,12 @@
           "commandName": "castle",
           "gridX": 1,
           "gridY": 22
+        },
+        {
+          "displayName": "Stonks",
+          "commandName": "stonks",
+          "gridX": 15,
+          "gridY": 13
         }
       ]
     },
@@ -226,8 +232,8 @@
     {
       "name": "Garden",
       "texturePath": "textures/gui/islands/Garden.png",
-      "gridX": 50,
-      "gridY": 27,
+      "gridX": 54,
+      "gridY": 26,
       "zLevel": 2,
       "widthPercentage": 0.10,
       "warpList": [
@@ -335,6 +341,54 @@
           "commandName": "dungeons",
           "gridX": 6,
           "gridY": 15
+        }
+      ]
+    },
+    {
+      "name": "Rift",
+      "texturePath": "textures/gui/islands/Rift Warp.png",
+      "gridX": 50,
+      "gridY": 27,
+      "zLevel": 2,
+      "widthPercentage": 0.03,
+      "warpList": [
+        {
+          "displayName": "Spawn",
+          "commandName": "rift",
+          "gridX": 6,
+          "gridY": 15
+        }
+      ]
+    },
+    {
+      "name": "Base Camp",
+      "texturePath": "textures/gui/islands/Base Camp.png",
+      "gridX": 51,
+      "gridY": 2,
+      "zLevel": 0,
+      "widthPercentage": 0.05,
+      "warpList": [
+        {
+          "displayName": "Base Camp",
+          "commandName": "camp",
+          "gridX": 6,
+          "gridY": 15
+        }
+      ]
+    },
+    {
+      "name": "Backwater Bayou",
+      "texturePath": "textures/gui/islands/Backwater Bayou.png",
+      "gridX": 52,
+      "gridY": 19,
+      "zLevel": 0,
+      "widthPercentage": 0.10,
+      "warpList": [
+        {
+          "displayName": "Backwater Bayou",
+          "commandName": "bayou",
+          "gridX": 16,
+          "gridY": 14
         }
       ]
     }
